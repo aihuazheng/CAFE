@@ -1,0 +1,8 @@
+pytorh>=1.0.0
+numpy
+imageio
+scipy
+tensorboardX
+matplotlib
+scikit-image
+h5py
