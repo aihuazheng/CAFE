@@ -18,9 +18,8 @@ If you find CaFE useful in your research, please consider citing:
 
 ```
 @inproceedings{aihuazheng2022CaFE,
-  title     = {Diverse features discovery transformer for pedestrian attribute recognition},
-  author    = {Aihua Zheng, Jinbo He, Ming Wang, Chenglong Li, Bin Luo},
   title     = {Category-Wise Fusion and Enhancement Learning for Multimodal Remote Sensing Image Semantic Segmentation},
+  author    = {Aihua Zheng, Jinbo He, Ming Wang, Chenglong Li, Bin Luo},
   journal   = {{IEEE} Trans. Geosci. Remote. Sens.},
   volume    = {60},
   pages     = {1--12},
