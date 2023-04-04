@@ -8,10 +8,14 @@ This repository is an official implementation of the paper [CaFE](https://aihuaz
 
 ### 🛠️ How to use this code: 
 ### ⚡️ Training: 
-coming soon
+```
+python cafe_train.py
+```
 
 ### ✨ Testing:
-coming soon
+```
+python cafe_inference.py
+```
 
 ### 📑 Citing CaFE
 If you find CaFE useful in your research, please consider citing:
